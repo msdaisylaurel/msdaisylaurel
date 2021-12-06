@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msdaisylaurel
 - 👀 I’m interested in gardening, ceramics, mathematics, physics, sci-fi/fantasy, people.
 - 🌱 I’m currently learning javascript and python.
-- 💞️ I’m happy to try my had at anything.
+- 💞️ I’m happy to try my hand at anything.
 - 📫 How to reach me msdaisylaurel@gmail.com
 
 <!---
